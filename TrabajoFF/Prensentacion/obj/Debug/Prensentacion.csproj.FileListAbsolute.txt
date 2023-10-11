@@ -1,0 +1,179 @@
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe.config
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.lref
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.g.resources
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.Properties.Resources.resources
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CopyComplete
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.baml
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.baml
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.baml
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe.config
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.g.resources
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.g.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Reportes.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Prensentacion\obj\Debug\Reportes.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Reportes.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Reportes.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.g.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe.config
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.exe
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Prensentacion.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Negocio.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Datos.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Negocio.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\bin\Debug\Datos.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\MainWindow.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Reportes.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\App.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion_MarkupCompile.lref
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioAlmacen.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioCiudad.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteEntrante.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\FormularioLoteSaliente.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\MainWindow.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Reportes.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.g.resources
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.Properties.Resources.resources
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.GenerateResource.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.csproj.CopyComplete
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.exe
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Prensentacion.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Login.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Login.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Registro.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Registro.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Eliminar usuarios.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\Eliminar usuarios.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\ModificarContrasenia.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Prensentacion\obj\Debug\ModificarContrasenia.baml
