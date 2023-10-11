@@ -1,0 +1,45 @@
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\obj\Debug\Datos.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Datos\obj\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\obj\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\obj\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\obj\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Datos\obj\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\obj\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Datos\obj\Debug\Datos.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\bin\Debug\Datos.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\bin\Debug\Datos.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\obj\Debug\Datos.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Datos\obj\Debug\Datos.pdb

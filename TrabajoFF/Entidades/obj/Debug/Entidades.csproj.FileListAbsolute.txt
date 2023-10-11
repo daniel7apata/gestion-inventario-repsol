@@ -1,0 +1,24 @@
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.pdb
