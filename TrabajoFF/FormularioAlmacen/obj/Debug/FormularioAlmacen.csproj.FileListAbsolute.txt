@@ -1,0 +1,110 @@
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.cache
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.lref
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.g.resources
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.Properties.Resources.resources
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.g.resources
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.g.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\App.g.cs
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.lref
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.baml
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.g.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.Properties.Resources.resources
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.GenerateResource.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.exe
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe.config
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.exe
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\FormularioAlmacen.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Negocio.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\bin\Debug\Datos.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\App.g.cs
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen_MarkupCompile.lref
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\MainWindow.baml
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.g.resources
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.Properties.Resources.resources
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.GenerateResource.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.csproj.CopyComplete
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.exe
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\FormularioAlmacen\obj\Debug\FormularioAlmacen.pdb

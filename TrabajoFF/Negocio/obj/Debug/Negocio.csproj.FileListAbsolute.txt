@@ -1,0 +1,55 @@
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\TrabajoFF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Nueva carpeta\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\TrabajoFF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Datos.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Piero}\source\repos\enviar\Verdadero\terminado\TrabajoFF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Datos.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Datos.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Negocio\obj\Debug\Negocio.pdb
