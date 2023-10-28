@@ -26,7 +26,7 @@ namespace Negocio
         }
         public void Sumacontenido(eLoteentrante lote)
         {
-            if (lote.tipo == "Petroleo")
+            if (lote.Combustible == "Petroleo")
             { 
                 Repsoldd.Ingresocontenido_LoteentrantePetroleoalmacen(lote); 
             }
@@ -46,7 +46,7 @@ namespace Negocio
         // REGISTRO LOTE saliente
         public void Restacontenido(eLoteSalida lote)
         {
-            if (lote.tipo == "Petroleo")
+            if (lote.Combustible == "Petroleo")
             { Repsoldd.Ingresocontenido_LotesalienteCiudadPetroleo(lote);
                 Repsoldd.Salidacontenido_LotesalientePetroleo(lote);
             }
