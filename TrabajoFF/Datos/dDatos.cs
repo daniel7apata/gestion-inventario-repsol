@@ -98,7 +98,7 @@ namespace Datos
             try
             {
                 SqlConnection con = db.ConectaDB();
-                string insert = string.Format("insert into  LoteEntrada(contenido,tipo,fecha_entrada,ID_almacen) values ({0},'{1}',{2},{3})", obj.contenido, obj.tipo, obj.fecha_entrada, obj.almacen);
+                string insert = string.Format("insert into  LoteEntrada(contenido,tipo,fecha_entrada,ID_almacen) values ({0},'{1}',{2},{3})", obj.Cantidad, obj.Combustible, obj.Fecha, obj.Almacen);
                 SqlCommand cmd = new SqlCommand(insert, con);
                 cmd.ExecuteNonQuery();
                 return "inserto";
@@ -121,7 +121,7 @@ namespace Datos
             try
             {
                 SqlConnection con = db.ConectaDB();
-                string insert = string.Format("insert into LoteSaliente (tipo,fecha_salida,ciudad,ID_almacen,contenido) values ('{0}',{1},'{2}',{3},{4})",objLS.tipo,objLS.fecha_salida,objLS.nombreciudad,objLS.almacen,objLS.contenido_salida);
+                string insert = string.Format("insert into LoteSaliente (tipo,fecha_salida,ciudad,ID_almacen,contenido) values ('{0}',{1},'{2}',{3},{4})",objLS.Combustible,objLS.Fecha, objLS.Ciudad,objLS.Almacen,objLS.Cantidad);
                 SqlCommand cmd = new SqlCommand(insert, con);
                 cmd.ExecuteNonQuery();
                 return "Inserto";
@@ -177,15 +177,15 @@ namespace Datos
         public void Ingresocontenido_LoteentrantePetroleoalmacen(eLoteentrante obj)//pasa cuando se inserta lote entrante
         {
             listaalmacen = listaralmacen();
-            int cantidad = obj.contenido;
+            int cantidad = obj.Cantidad;
             eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
-            { return obj.almacen == value.ID_Almacen; });
+            { return obj.Almacen == value.ID; });
 
             try
             {
-                cantidad = cantidad + almacenencontado.cantidad_petroleo;
+                cantidad = cantidad + almacenencontado.Petroleo;
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID_Almacen, cantidad);
+                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID, cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
                 listaalmacen = listaralmacen();
@@ -200,15 +200,15 @@ namespace Datos
         public void Ingresocontenido_LoteentranteGasolinaalmacen(eLoteentrante obj)//pasa cuando se inserta lote entrante
         {
             listaalmacen = listaralmacen();
-            int cantidad = obj.contenido;
+            int cantidad = obj.Cantidad;
             eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
-            { return obj.almacen == value.ID_Almacen; });
+            { return obj.Almacen == value.ID; });
 
             try
             {
-                cantidad = cantidad + almacenencontado.cantidad_petroleo;
+                cantidad = cantidad + almacenencontado.Petroleo;
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Almacen set contenidoGasolina={1} where ID_almacen={0}", almacenencontado.ID_Almacen, cantidad);
+                string update = string.Format("update Almacen set contenidoGasolina={1} where ID_almacen={0}", almacenencontado.ID, cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
 
@@ -235,9 +235,9 @@ namespace Datos
                 while (reader.Read())
                 {
                     objalmacen = new eAlmacen();
-                    objalmacen.ID_Almacen = (int)reader["ID_almacen"];
-                    objalmacen.cantidad_gasolina = (int)reader["contenidoGasolina"];
-                    objalmacen.cantidad_petroleo = (int)reader["contenidoPetroleo"];
+                    objalmacen.ID = (int)reader["ID_almacen"];
+                    objalmacen.Gasolina = (int)reader["contenidoGasolina"];
+                    objalmacen.Petroleo = (int)reader["contenidoPetroleo"];
                     lista.Add(objalmacen);
 
                 }
@@ -262,7 +262,7 @@ namespace Datos
             try
             {
                 SqlConnection con = db.ConectaDB();
-                string insert = string.Format("insert into  Ciudad(ciudad,contenidoPetroleo,contenidoGasolina,Precio) values ('{0}',{1},{2},{3})", obj.nombre_ciudad, 0, 0,obj.precio);
+                string insert = string.Format("insert into  Ciudad(ciudad,contenidoPetroleo,contenidoGasolina,Precio) values ('{0}',{1},{2},{3})", obj.Ciudad, 0, 0,obj.Precio);
                 SqlCommand cmd = new SqlCommand(insert, con);
                 cmd.ExecuteNonQuery();
                 return "inserto";
@@ -284,15 +284,15 @@ namespace Datos
         public void Salidacontenido_LotesalientePetroleo(eLoteSalida obj)//pasa cuando se inserta lote entrante
         {
             listaalmacen = listaralmacen();
-            int cantidad = obj.contenido_salida;
+            int cantidad = obj.Cantidad;
             eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
-            { return obj.almacen == value.ID_Almacen; });
+            { return obj.Almacen == value.ID; });
 
             try
             {
-                cantidad = almacenencontado.cantidad_petroleo - cantidad;
+                cantidad = almacenencontado.Petroleo - cantidad;
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID_Almacen,cantidad);
+                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID,cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
                 listaalmacen = listaralmacen();
@@ -310,16 +310,16 @@ namespace Datos
         public void Salidacontenido_LotesalienteGasolina(eLoteSalida obj)//pasa cuando se inserta lote entrante
         {
             listaalmacen = listaralmacen();
-            int cantidad = obj.contenido_salida;
+            int cantidad = obj.Cantidad;
             eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
-            { return obj.almacen == value.ID_Almacen; });
+            { return obj.Almacen == value.ID; });
 
             try
             {
-                cantidad = cantidad - obj.contenido_salida;
+                cantidad = cantidad - obj.Cantidad;
                 
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID_Almacen,cantidad);
+                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID,cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
                 listaalmacen = listaralmacen();
@@ -340,15 +340,15 @@ namespace Datos
              
                 eCiudad objciudad ;
                 SqlConnection con = db.ConectaDB();
-                SqlCommand cmd = new SqlCommand("select ciudad,contenidoPetroleo,contenidoGasolina,Precio from Ciudad", con);
+                SqlCommand cmd = new SqlCommand("select ciudad as CIUDAD,contenidoPetroleo,contenidoGasolina,Precio from Ciudad", con);
                 SqlDataReader reader = cmd.ExecuteReader();
                 while (reader.Read())
                 {
                     objciudad = new eCiudad();
-                    objciudad.nombre_ciudad = (string)reader["ciudad"];
-               objciudad.cantidad_gasolina_enviada = (int)reader["contenidoGasolina"];
-                objciudad.cantidad_petroleo_enviada = (int)reader["contenidoPetroleo"];
-               objciudad.precio = (decimal)reader["Precio"];
+                    objciudad.Ciudad = (string)reader["ciudad"];
+               objciudad.Gasolina = (int)reader["contenidoGasolina"];
+                objciudad.Petroleo = (int)reader["contenidoPetroleo"];
+               objciudad.Precio = (decimal)reader["Precio"];
                lista.Add(objciudad);
                 }
 
@@ -370,20 +370,42 @@ namespace Datos
         {
             //  listaalmacen = listaralmacen();
             listaciudad = listarciudad();
-            int cantidad = obj.contenido_salida;
+            int cantidad = obj.Cantidad;
             eCiudad ciudadnencontado = listaciudad.Find(delegate (eCiudad value)
-            { return obj.nombreciudad == value.nombre_ciudad; });
+            { return obj.Ciudad == value.Ciudad; });
 
             try
             {
-                cantidad = ciudadnencontado.cantidad_petroleo_enviada + cantidad;
+                cantidad = ciudadnencontado.Petroleo + cantidad;
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Ciudad set contenidoPetroleo={1} where ciudad='{0}'", ciudadnencontado.nombre_ciudad, cantidad);
+                string update = string.Format("update Ciudad set contenidoPetroleo={1} where ciudad='{0}'", ciudadnencontado.Ciudad, cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
                 listaciudad = listarciudad();
 
             }
+            finally
+            {
+                db.DesconectaDB();
+            }
+
+
+            listaalmacen = listaralmacen();
+            int cantidadINI = obj.Cantidad;
+            eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
+            { return obj.Almacen == value.ID; });
+
+            try
+            {
+                cantidadINI = (cantidadINI - almacenencontado.Petroleo) * -1;
+                SqlConnection con = db.ConectaDB();
+                string update = string.Format("update Almacen set contenidoPetroleo={1} where ID_almacen={0}", almacenencontado.ID, cantidadINI);
+                SqlCommand cmd = new SqlCommand(update, con);
+                cmd.ExecuteNonQuery();
+
+
+            }
+
             finally
             {
                 db.DesconectaDB();
@@ -396,15 +418,16 @@ namespace Datos
         {
             //  listaalmacen = listaralmacen();
             listaciudad = listarciudad();
-            int cantidad = obj.contenido_salida;
+            int cantidad = obj.Cantidad;
+            int cantInicial = obj.Cantidad;
             eCiudad ciudadnencontado = listaciudad.Find(delegate (eCiudad value)
-            { return obj.nombreciudad== value.nombre_ciudad; });
+            { return obj.Ciudad== value.Ciudad; });
             try
             {
-                cantidad = ciudadnencontado.cantidad_gasolina_enviada + cantidad;
+                cantidad = ciudadnencontado.Gasolina + cantidad;
 
                 SqlConnection con = db.ConectaDB();
-                string update = string.Format("update Ciudad set contenidoGasolina={1} where ciudad='{0}'", ciudadnencontado.nombre_ciudad, cantidad);
+                string update = string.Format("update Ciudad set contenidoGasolina={1} where ciudad='{0}'", ciudadnencontado.Ciudad, cantidad);
                 SqlCommand cmd = new SqlCommand(update, con);
                 cmd.ExecuteNonQuery();
                 listaciudad = listarciudad();
@@ -414,6 +437,30 @@ namespace Datos
             {
                 db.DesconectaDB();
             }
+
+
+
+            listaalmacen = listaralmacen();
+            int cantidadINI = obj.Cantidad;
+            eAlmacen almacenencontado = listaalmacen.Find(delegate (eAlmacen value)
+            { return obj.Almacen == value.ID; });
+
+            try
+            {
+                cantidadINI = (cantidadINI - almacenencontado.Gasolina)*-1;
+                SqlConnection con = db.ConectaDB();
+                string update = string.Format("update Almacen set contenidoGasolina={1} where ID_almacen={0}", almacenencontado.ID, cantidadINI);
+                SqlCommand cmd = new SqlCommand(update, con);
+                cmd.ExecuteNonQuery();
+
+
+            }
+
+            finally
+            {
+                db.DesconectaDB();
+            }
+
 
         }
 
@@ -432,11 +479,11 @@ namespace Datos
                 while (reader.Read())
                 {
                     objentrante = new eLoteentrante();
-                    objentrante.ID_LoteE = (int)reader["ID"];
-                    objentrante.contenido = (int)reader["contenido"];
-                    objentrante.tipo = (string)reader["tipo"];
-                    objentrante.fecha_entrada = (int)reader["fecha_entrada"];
-                    objentrante.almacen = (int)reader["ID_almacen"];
+                    objentrante.ID = (int)reader["ID"];
+                    objentrante.Cantidad = (int)reader["contenido"];
+                    objentrante.Combustible = (string)reader["tipo"];
+                    objentrante.Fecha = (int)reader["fecha_entrada"];
+                    objentrante.Almacen = (int)reader["ID_almacen"];
                    
                 //    objentrante.almacen.ID_Almacen = (int)reader["ID_almacen"];
                     lista.Add(objentrante);
@@ -472,13 +519,13 @@ namespace Datos
                 while (reader.Read())
                 {
                     objlotesalida = new eLoteSalida();
-                    objlotesalida.ID_LoteS = (int)reader["ID"];
-                    objlotesalida.tipo = (string)reader["tipo"];
-                    objlotesalida.fecha_salida = (int)reader["fecha_salida"];
-                    objlotesalida.contenido_salida = (int)reader["contenido"];
-                    objlotesalida.nombreciudad = (string)reader["ciudad"];
+                    objlotesalida.ID = (int)reader["ID"];
+                    objlotesalida.Combustible = (string)reader["tipo"];
+                    objlotesalida.Fecha = (int)reader["fecha_salida"];
+                    objlotesalida.Cantidad = (int)reader["contenido"];
+                    objlotesalida.Ciudad = (string)reader["ciudad"];
                
-                    objlotesalida.almacen = (int)reader["ID_almacen"];
+                    objlotesalida.Almacen = (int)reader["ID_almacen"];
                     lista.Add(objlotesalida);
 
                     
@@ -505,8 +552,8 @@ namespace Datos
             int sumamax = 0;
             int suma = 0;
             foreach (eAlmacen x in listaalmacen)
-            { petro = x.cantidad_petroleo;
-                combus = x.cantidad_gasolina;
+            { petro = x.Petroleo;
+                combus = x.Gasolina;
                 suma = petro + combus;
                 if (sumamax <= suma)
                 {
@@ -516,8 +563,8 @@ namespace Datos
             }
             foreach (eAlmacen x in listaalmacen)
             {
-                petro = x.cantidad_petroleo;
-                combus = x.cantidad_gasolina;
+                petro = x.Petroleo;
+                combus = x.Gasolina;
                 suma = petro + combus;
                 if (sumamax == suma)
                 { maximos.Add(x); }
@@ -535,9 +582,9 @@ namespace Datos
             {
                 foreach (eCiudad y in listaciudad)
                 {
-                    if (x.nombreciudad == y.nombre_ciudad)
+                    if (x.Ciudad == y.Ciudad)
                     {
-                        y.cantidadenvia = y.cantidadenvia + 1;
+                        y.Total = y.Total + 1;
                     }
                 }
             
@@ -545,12 +592,12 @@ namespace Datos
             int cantidadmax=0;
             foreach (eCiudad y in listaciudad)
             {
-                if (cantidadmax < y.cantidadenvia)
-                    cantidadmax = y.cantidadenvia;
+                if (cantidadmax < y.Total)
+                    cantidadmax = y.Total;
             }
             foreach (eCiudad y in listaciudad)
             {
-                if (cantidadmax == y.cantidadenvia)
+                if (cantidadmax == y.Total)
                     ciudadmasenvios.Add(y);
             }
             return ciudadmasenvios;
@@ -562,8 +609,8 @@ namespace Datos
             int acumuladorC = 0;
             foreach (eAlmacen x in listaalmacen)
             {
-                acumuladorP = acumuladorP + x.cantidad_petroleo;
-                acumuladorC = acumuladorC + x.cantidad_gasolina;
+                acumuladorP = acumuladorP + x.Petroleo;
+                acumuladorC = acumuladorC + x.Gasolina;
             }
             if (acumuladorC < acumuladorP)
             { return "Petroleo"; }
@@ -592,10 +639,10 @@ namespace Datos
                 {
 
                     eLoteentrante sector = new eLoteentrante();
-                    sector.ID_LoteE = (int)reader["ID"];
-                    sector.fecha_entrada = (int)reader["FechaEntrada"];
-                    sector.tipo = (string)reader["TIPO"];
-                    sector.contenido = (int)reader["Contenido"];
+                    sector.ID = (int)reader["ID"];
+                    sector.Fecha = (int)reader["FechaEntrada"];
+                    sector.Combustible = (string)reader["TIPO"];
+                    sector.Cantidad = (int)reader["Contenido"];
                     lsSector.Add(sector);
                 }
                 reader.Close();
