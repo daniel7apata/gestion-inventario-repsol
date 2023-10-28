@@ -22,6 +22,9 @@ namespace Prensentacion
     {
         nDatos datosn;
         eLoteSalida salida;
+        bool estaEnRango;
+        int numero;
+        bool esEntero;
         public FormularioLoteSaliente()
         {
             datosn = new nDatos();
@@ -40,31 +43,81 @@ namespace Prensentacion
         private void btnRegistrar_Click(object sender, RoutedEventArgs e)
         {
 
-            if (txtalmacen.Text!=""|| txtciudad.Text!=""||txttipo.Text!=""||txtfecha_salida.Text!="")
+            salida.Fecha = Convert.ToInt32(txtfecha_salida.Text);
+
+            int valorFecha = salida.Fecha; // Reemplaza con tu valor de fecha en formato YYYYMMDD
+
+            DateTime fechaLimite = new DateTime(1987, 10, 1);
+            DateTime fechaHoy = DateTime.Now;
+
+            DateTime fechaConvertida;
+
+            int cantidadalamacenes = datosn.ListarAlmacenes().Count;
+
+            if (int.TryParse(valorFecha.ToString(), out int parsedDate) &&
+                DateTime.TryParseExact(parsedDate.ToString(), "yyyyMMdd", null, System.Globalization.DateTimeStyles.None, out fechaConvertida))
             {
-                salida.tipo = txttipo.Text;
-                if (salida.tipo == "gasolina" || salida.tipo == "petroleo")
+                if (fechaConvertida >= fechaLimite && fechaConvertida <= fechaHoy)
                 {
-
-                    salida.fecha_salida = Convert.ToInt32(txtfecha_salida.Text);
-                    salida.nombreciudad = txtciudad.Text;
-
-                    if (salida.nombreciudad.Length >= 3 && salida.nombreciudad.Length <= 20)
-                    {
-                        salida.almacen = Convert.ToInt32(txtalmacen.Text);
-                        salida.contenido_salida = Convert.ToInt32(txtcontenido.Text);
-
-                        if (salida.contenido_salida > 0 && salida.contenido_salida <= 1000000)
-                        {
-                            MessageBox.Show(datosn.RegistrarLoteSSaliente(salida));
-                            Mostrar();
-                        }
-                        else MessageBox.Show("Cantidad incorrecta");
-                    }
-                    else MessageBox.Show("Nombre incorrecto");
+                    estaEnRango = true;
                 }
-                else MessageBox.Show("Tipo de combustible incorrecto");
+                else
+                {
+                    estaEnRango = false;
+                }
             }
+            else
+            {
+                Console.WriteLine("El valor no es una fecha válida.");
+            }
+
+
+            if (int.TryParse(txtalmacen.Text, out int numero))
+            {
+                // La conversión a entero fue exitosa, y el valor se almacena en la variable 'numero'.
+                Console.WriteLine("El valor ingresado es un número entero: " + numero);
+                esEntero = true;
+            }
+            else
+            {
+                // La conversión falló, lo que significa que el valor ingresado no es un número entero.
+                Console.WriteLine("El valor ingresado no es un número entero.");
+                esEntero = false;
+            }
+
+
+            if (estaEnRango == true) {
+                if (txtalmacen.Text != "" || txtciudad.Text != "" || txttipo.Text != "" || txtfecha_salida.Text != "")
+                {
+                    salida.Combustible = txttipo.Text;
+                    if (salida.Combustible == "gasolina" || salida.Combustible == "petroleo")
+                    {
+
+                        salida.Fecha = Convert.ToInt32(txtfecha_salida.Text);
+                        salida.Ciudad = txtciudad.Text;
+
+                        if (salida.Ciudad.Length >= 3 && salida.Ciudad.Length <= 20)
+                        {
+                            if (Convert.ToInt32(txtcontenido.Text) > 0 && Convert.ToInt32(txtcontenido.Text) <= 1000000)
+                            {
+                                if (esEntero == true && Convert.ToInt32(txtalmacen.Text) > 0 && Convert.ToInt32(txtalmacen.Text)<=cantidadalamacenes) { 
+                                salida.Almacen = Convert.ToInt32(txtalmacen.Text);
+                                salida.Cantidad = Convert.ToInt32(txtcontenido.Text);
+                                datosn.RegistrarLoteSSaliente(salida);
+                                MessageBox.Show("Lote saliente registrado");
+                                Mostrar();
+                                }
+                                else MessageBox.Show("El ID ingresado no existe");
+                            }
+                            else MessageBox.Show("Cantidad incorrecta");
+                        }
+                        else MessageBox.Show("Nombre incorrecto");
+                    }
+                    else MessageBox.Show("Tipo de combustible incorrecto");
+                }
+            }
+            else { MessageBox.Show("La fecha no está dentro del rango entre el 1 de octubre de 1987 y hoy."); }
+
             
 
         }
@@ -80,6 +133,11 @@ namespace Prensentacion
         }
 
         private void txttipo_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void dgalmacen_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }

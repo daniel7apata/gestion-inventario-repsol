@@ -38,8 +38,9 @@ namespace Prensentacion
         private void Button_Click(object sender, RoutedEventArgs e)
         {
           eAlmacen almacen = new eAlmacen();
-          MessageBox.Show(datosn.RegistrarAlmacen(almacen));
-            Mostrar();
+          datosn.RegistrarAlmacen(almacen);
+          MessageBox.Show("Almacén registrado");
+          Mostrar();
         }
 
         private void dgalmacen_SelectionChanged(object sender, SelectionChangedEventArgs e)

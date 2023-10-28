@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -13,6 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Entidades;
 using Negocio;
+using System.Text.RegularExpressions;
 namespace Prensentacion
 {
     /// <summary>
@@ -30,7 +32,10 @@ namespace Prensentacion
         private void Mostrar()
         {
 
+
             DgCiudad.ItemsSource = datosn.ListarCiudad();
+           
+
         }
         private void btnciudad_Clicks(object sender, RoutedEventArgs e)
         {
@@ -40,14 +45,20 @@ namespace Prensentacion
         private void btnciudad_Click_1(object sender, RoutedEventArgs e)
         {
             eCiudad ciud = new eCiudad();
-            ciud.nombre_ciudad = txtNombreciudad.Text;
+            ciud.Ciudad = txtNombreciudad.Text;
 
-            if (ciud.nombre_ciudad.Length >= 3 && ciud.nombre_ciudad.Length <= 20)
+
+            string patron = "^[a-zA-Z ]+$";
+            Regex regex = new Regex(patron);
+
+
+            if (ciud.Ciudad.Length >= 3 && ciud.Ciudad.Length <= 20 && regex.IsMatch(ciud.Ciudad))
             {
-                ciud.precio = Convert.ToDecimal(txtprecio.Text);
-                if (ciud.precio > 0 && ciud.precio <= 100000)
+                ciud.Precio = Convert.ToDecimal(txtprecio.Text);
+                if (ciud.Precio > 0 && ciud.Precio <= 100000)
                 {
-                    MessageBox.Show(datosn.RegistrarCiudad(ciud));
+                    datosn.RegistrarCiudad(ciud);
+                    MessageBox.Show("Ciudad registrada");
                     Mostrar();
                 }
                 else MessageBox.Show("Monto incorrecto");
@@ -60,6 +71,11 @@ namespace Prensentacion
         }
 
         private void DgCiudad_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void DgCiudad_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
         {
 
         }

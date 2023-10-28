@@ -43,16 +43,17 @@ namespace Prensentacion
 
 
 
-                entrante.contenido = Convert.ToInt32(txtcontenido.Text);
-                if (entrante.contenido > 0 && entrante.contenido <= 1000000) {
-                    entrante.fecha_entrada = Convert.ToInt32(txtfecha.Text);
+                entrante.Cantidad = Convert.ToInt32(txtcontenido.Text);
+                if (entrante.Cantidad > 0 && entrante.Cantidad <= 1000000) {
+                    entrante.Fecha = Convert.ToInt32(txtfecha.Text);
                     
-                    entrante.tipo = txttipo.Text;
+                    entrante.Combustible = txttipo.Text;
 
-                    if (entrante.tipo == "gasolina" || entrante.tipo == "petroleo")
+                    if (entrante.Combustible == "gasolina" || entrante.Combustible == "petroleo")
                     {
-                        entrante.almacen = Convert.ToInt32(txtID_amacen.Text);
-                        MessageBox.Show(datosn.RegistrarLoteEntrante(entrante));
+                        entrante.Almacen = Convert.ToInt32(txtID_amacen.Text);
+                        datosn.RegistrarLoteEntrante(entrante);
+                        MessageBox.Show("Lote entrante registrado");
                     }
                     else MessageBox.Show("Tipo de combustible incorrecto");
 
