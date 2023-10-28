@@ -8,8 +8,8 @@ namespace Entidades
 {
    public class eAlmacen
     {
-        public int ID_Almacen { get; set; }
-        public int cantidad_petroleo { get; set; }
-        public int cantidad_gasolina { get; set; }
+        public int ID { get; set; }
+        public int Petroleo { get; set; }
+        public int Gasolina { get; set; }
     }
 }

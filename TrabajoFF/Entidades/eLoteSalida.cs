@@ -8,12 +8,12 @@ namespace Entidades
 {
    public class eLoteSalida
     {
-        public int ID_LoteS { get; set; }
-        public string tipo { get; set; }
-        public int contenido_salida { get; set; }
-        public int fecha_salida { get; set; }
+        public int ID { get; set; }
+        public string Combustible { get; set; }
+        public int Cantidad { get; set; }
+        public int Fecha { get; set; }
      //   public int precio { get; set; }
-        public string nombreciudad { get; set; }
-        public int almacen { get; set; }
+        public string Ciudad { get; set; }
+        public int Almacen { get; set; }
     }
 }

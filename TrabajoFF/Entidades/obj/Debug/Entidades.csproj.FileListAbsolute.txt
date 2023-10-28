@@ -22,3 +22,9 @@ C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\Tr
 C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.dll
 C:\Users\daniz\OneDrive\Desktop\DISE_EXP-SAN_MIGUEL-G4-PROGRAMA-V0.1\PROGRAMA\TrabajoFF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\bin\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\obj\Debug\Entidades.dll
+C:\Users\daniz\OneDrive\Documents\G4DiseExp\TrabajoFF\Entidades\obj\Debug\Entidades.pdb

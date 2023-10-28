@@ -8,11 +8,11 @@ namespace Entidades
 {
   public  class eCiudad
     {
-        public string nombre_ciudad { get; set; }
-        public int cantidad_petroleo_enviada { get; set; }
-        public int cantidad_gasolina_enviada { get; set; }
-        public int cantidadenvia { get; set; }
-        public decimal precio { get; set; }
+        public string Ciudad { get; set; }
+        public int Petroleo { get; set; }
+        public int Gasolina { get; set; }
+        public int Total { get; set; }
+        public decimal Precio { get; set; }
        
     }
 }

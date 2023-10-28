@@ -8,11 +8,11 @@ namespace Entidades
 {
    public class eLoteentrante
     {
-        public int ID_LoteE { get; set; }
-        public int contenido { get; set; }
-        public string tipo { get; set; }
-        public int fecha_entrada { get; set; }
-        public int  almacen { get; set; }
+        public int ID { get; set; }
+        public int Cantidad { get; set; }
+        public string Combustible { get; set; }
+        public int Fecha { get; set; }
+        public int  Almacen { get; set; }
        
     }
 }
