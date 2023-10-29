@@ -25,6 +25,7 @@ namespace Prensentacion
         bool estaEnRango;
         int numero;
         bool esEntero;
+        bool esNumero;
         public FormularioLoteSaliente()
         {
             datosn = new nDatos();
@@ -65,11 +66,15 @@ namespace Prensentacion
                 {
                     estaEnRango = false;
                 }
-            }
-            else
+            } else Console.WriteLine("El valor no es una fecha válida.");
+            
+
+            if (double.TryParse(txtcontenido.ToString(), out double parsedDouble))
             {
-                Console.WriteLine("El valor no es una fecha válida.");
+                esNumero = true;
             }
+
+            else { esNumero = false; }
 
 
             if (int.TryParse(txtalmacen.Text, out int numero))
@@ -84,7 +89,7 @@ namespace Prensentacion
                 Console.WriteLine("El valor ingresado no es un número entero.");
                 esEntero = false;
             }
-
+            
 
             if (estaEnRango == true) {
                 if (txtalmacen.Text != "" || txtciudad.Text != "" || txttipo.Text != "" || txtfecha_salida.Text != "")
@@ -98,9 +103,9 @@ namespace Prensentacion
 
                         if (salida.Ciudad.Length >= 3 && salida.Ciudad.Length <= 20)
                         {
-                            if (Convert.ToInt32(txtcontenido.Text) > 0 && Convert.ToInt32(txtcontenido.Text) <= 1000000)
+                            if (Convert.ToDouble(txtcontenido.Text) > 0 && Convert.ToDouble(txtcontenido.Text) <= 1000000)
                             {
-                                if (esEntero == true && Convert.ToInt32(txtalmacen.Text) > 0 && Convert.ToInt32(txtalmacen.Text)<=cantidadalamacenes) { 
+                                if (esEntero == true && Convert.ToDouble(txtalmacen.Text) > 0 && Convert.ToDouble(txtalmacen.Text)<=cantidadalamacenes) { 
                                 salida.Almacen = Convert.ToInt32(txtalmacen.Text);
                                 salida.Cantidad = Convert.ToInt32(txtcontenido.Text);
                                 datosn.RegistrarLoteSSaliente(salida);

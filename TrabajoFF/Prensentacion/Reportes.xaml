@@ -24,7 +24,7 @@
             </TextBox.RenderTransform>
         </TextBox>
         <Button Content="Almacén con más combustible" HorizontalAlignment="Left" Margin="131,551,0,0" VerticalAlignment="Top" Width="203" Click="Button_Click" Height="31"/>
-        <Button x:Name="btnciudadmasenvios" Content="Ciudad mas envios" HorizontalAlignment="Left" Margin="651,546,0,0" VerticalAlignment="Top" Width="261" Height="32" Click="btnciudadmasenvios_Click"/>
+        <Button x:Name="btnciudadmasenvios" Content="Ciudad con más envíos" HorizontalAlignment="Left" Margin="651,546,0,0" VerticalAlignment="Top" Width="261" Height="36" Click="btnciudadmasenvios_Click"/>
         <Button Content="Mayor combustible" HorizontalAlignment="Left" Margin="10,301,0,0" VerticalAlignment="Top" Width="158" Click="Button_Click_1" Height="68" Grid.Column="1"/>
         <DataGrid x:Name="dtordenar" HorizontalAlignment="Left" Height="237" Margin="379,0,0,0" VerticalAlignment="Top" Width="29" SelectionChanged="dtordenar_SelectionChanged" Grid.Column="1"/>
         <Button Content="ordenarr" HorizontalAlignment="Left" Margin="379,118,0,0" VerticalAlignment="Top" Width="143" Click="Button_Click_2" Height="30" Grid.Column="1"/>

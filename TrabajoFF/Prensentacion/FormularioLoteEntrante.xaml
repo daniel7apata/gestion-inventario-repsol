@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Prensentacion"
         mc:Ignorable="d"
-        Title="FormularioLoteEntrante" Height="595" Width="421">
-    <Grid Margin="0,0,-379,18">
+        Title="FormularioLoteEntrante" Height="402" Width="728">
+    <Grid Margin="-31,0,-348,18">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="13*"/>
             <ColumnDefinition Width="40*"/>
@@ -17,14 +17,14 @@
         <TextBox x:Name="txtfecha" HorizontalAlignment="Left" Height="23" Margin="19,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
         <TextBox x:Name="txttipo" HorizontalAlignment="Left" Height="23" Margin="19,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
         <TextBox x:Name="txtID_amacen" HorizontalAlignment="Left" Height="23" Margin="19,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
-        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="24,35,0,0" VerticalAlignment="Top" Grid.Column="1" Width="60" Grid.ColumnSpan="2"/>
-        <Label Content="Fecha entrada" HorizontalAlignment="Left" Margin="23,61,0,0" VerticalAlignment="Top" Width="84" Grid.ColumnSpan="2"/>
-        <Label Content="Tipo" HorizontalAlignment="Left" Margin="47,92,0,0" VerticalAlignment="Top" Grid.Column="1" Width="34"/>
-        <Label Content="ID Almacén" HorizontalAlignment="Left" Margin="10,123,0,0" VerticalAlignment="Top" Grid.Column="1"/>
-        <Label Content="Contenido de Almacenes" HorizontalAlignment="Left" Margin="26,371,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="149"/>
-        <DataGrid x:Name="dtalmacen" HorizontalAlignment="Left" Height="126" Margin="26,402,0,0" VerticalAlignment="Top" Width="340" Grid.ColumnSpan="3"/>
-        <DataGrid x:Name="dgentrante" HorizontalAlignment="Left" Height="114" Margin="26,243,0,0" VerticalAlignment="Top" Width="340" Grid.ColumnSpan="3"/>
-        <Label Content="Lotes Entrantes Registrados" HorizontalAlignment="Left" Margin="26,212,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="172"/>
+        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="36,35,0,0" VerticalAlignment="Top" Grid.Column="1" Width="60"/>
+        <Label Content="Fecha entrada" HorizontalAlignment="Left" Margin="36,61,0,0" VerticalAlignment="Top" Width="84" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label Content="Tipo" HorizontalAlignment="Left" Margin="36,92,0,0" VerticalAlignment="Top" Grid.Column="1" Width="34"/>
+        <Label Content="ID Almacén" HorizontalAlignment="Left" Margin="36,123,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Contenido de Almacenes" HorizontalAlignment="Left" Margin="117,187,0,0" VerticalAlignment="Top" Width="149" Grid.Column="2"/>
+        <DataGrid x:Name="dtalmacen" HorizontalAlignment="Left" Height="126" Margin="117,213,0,0" VerticalAlignment="Top" Width="143" Grid.Column="2"/>
+        <DataGrid x:Name="dgentrante" HorizontalAlignment="Left" Height="288" Margin="292,56,0,0" VerticalAlignment="Top" Width="281" Grid.Column="2"/>
+        <Label Content="Lotes Entrantes Registrados" HorizontalAlignment="Left" Margin="292,30,0,0" VerticalAlignment="Top" Width="172" Grid.Column="2"/>
 
     </Grid>
 </Window>
